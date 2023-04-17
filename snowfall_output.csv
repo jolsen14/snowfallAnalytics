@@ -1,0 +1,818 @@
+,date,totalSnow,snowDays,baseDepth,summitDepth,maxBaseDepth,biggestSnowfall,time_period,title,region,slug
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Bear Mountain,california,bear-mountain
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Bear Mountain,california,bear-mountain
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Bear Mountain,california,bear-mountain
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Bear Mountain,california,bear-mountain
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Bear Mountain,california,bear-mountain
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Bear Mountain,california,bear-mountain
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Bear Mountain,california,bear-mountain
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Bear Mountain,california,bear-mountain
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Bear Mountain,california,bear-mountain
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Bear Mountain,california,bear-mountain
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Bear Mountain,california,bear-mountain
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Bear Valley,california,bear-valley
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Bear Valley,california,bear-valley
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Bear Valley,california,bear-valley
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Bear Valley,california,bear-valley
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Bear Valley,california,bear-valley
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Bear Valley,california,bear-valley
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Bear Valley,california,bear-valley
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Bear Valley,california,bear-valley
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Bear Valley,california,bear-valley
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Bear Valley,california,bear-valley
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Bear Valley,california,bear-valley
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Boreal Mountain Resort,california,boreal
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Boreal Mountain Resort,california,boreal
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Boreal Mountain Resort,california,boreal
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Boreal Mountain Resort,california,boreal
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Boreal Mountain Resort,california,boreal
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Boreal Mountain Resort,california,boreal
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Boreal Mountain Resort,california,boreal
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Boreal Mountain Resort,california,boreal
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Boreal Mountain Resort,california,boreal
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Boreal Mountain Resort,california,boreal
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Boreal Mountain Resort,california,boreal
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Dodge Ridge,california,dodge-ridge
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Dodge Ridge,california,dodge-ridge
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Dodge Ridge,california,dodge-ridge
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Dodge Ridge,california,dodge-ridge
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Dodge Ridge,california,dodge-ridge
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Dodge Ridge,california,dodge-ridge
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Dodge Ridge,california,dodge-ridge
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Dodge Ridge,california,dodge-ridge
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Dodge Ridge,california,dodge-ridge
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Dodge Ridge,california,dodge-ridge
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Dodge Ridge,california,dodge-ridge
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Donner Ski Ranch,california,donner-ski-ranch
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Donner Ski Ranch,california,donner-ski-ranch
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Donner Ski Ranch,california,donner-ski-ranch
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Donner Ski Ranch,california,donner-ski-ranch
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Donner Ski Ranch,california,donner-ski-ranch
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Donner Ski Ranch,california,donner-ski-ranch
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Donner Ski Ranch,california,donner-ski-ranch
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Donner Ski Ranch,california,donner-ski-ranch
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Donner Ski Ranch,california,donner-ski-ranch
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Donner Ski Ranch,california,donner-ski-ranch
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Donner Ski Ranch,california,donner-ski-ranch
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Heavenly,california,heavenly-mountain-resort
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Heavenly,california,heavenly-mountain-resort
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Heavenly,california,heavenly-mountain-resort
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Heavenly,california,heavenly-mountain-resort
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Heavenly,california,heavenly-mountain-resort
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Heavenly,california,heavenly-mountain-resort
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Heavenly,california,heavenly-mountain-resort
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Heavenly,california,heavenly-mountain-resort
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Heavenly,california,heavenly-mountain-resort
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Heavenly,california,heavenly-mountain-resort
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Heavenly,california,heavenly-mountain-resort
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Kirkwood,california,kirkwood
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Kirkwood,california,kirkwood
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Kirkwood,california,kirkwood
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Kirkwood,california,kirkwood
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Kirkwood,california,kirkwood
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Kirkwood,california,kirkwood
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Kirkwood,california,kirkwood
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Kirkwood,california,kirkwood
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Kirkwood,california,kirkwood
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Kirkwood,california,kirkwood
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Kirkwood,california,kirkwood
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Mammoth Mountain,california,mammoth-mountain-ski-area
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Mammoth Mountain,california,mammoth-mountain-ski-area
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Mammoth Mountain,california,mammoth-mountain-ski-area
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Mammoth Mountain,california,mammoth-mountain-ski-area
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Mammoth Mountain,california,mammoth-mountain-ski-area
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Mammoth Mountain,california,mammoth-mountain-ski-area
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Mammoth Mountain,california,mammoth-mountain-ski-area
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Mammoth Mountain,california,mammoth-mountain-ski-area
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Mammoth Mountain,california,mammoth-mountain-ski-area
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Mammoth Mountain,california,mammoth-mountain-ski-area
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Mammoth Mountain,california,mammoth-mountain-ski-area
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Mountain High,california,mountain-high
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Mountain High,california,mountain-high
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Mountain High,california,mountain-high
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Mountain High,california,mountain-high
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Mountain High,california,mountain-high
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Mountain High,california,mountain-high
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Mountain High,california,mountain-high
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Mountain High,california,mountain-high
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Mountain High,california,mountain-high
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Mountain High,california,mountain-high
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Mountain High,california,mountain-high
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Northstar California,california,northstar-california
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Northstar California,california,northstar-california
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Northstar California,california,northstar-california
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Northstar California,california,northstar-california
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Northstar California,california,northstar-california
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Northstar California,california,northstar-california
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Northstar California,california,northstar-california
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Northstar California,california,northstar-california
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Northstar California,california,northstar-california
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Northstar California,california,northstar-california
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Northstar California,california,northstar-california
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Palisades Tahoe,california,squaw-valley-usa
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Palisades Tahoe,california,squaw-valley-usa
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Palisades Tahoe,california,squaw-valley-usa
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Palisades Tahoe,california,squaw-valley-usa
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Palisades Tahoe,california,squaw-valley-usa
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Palisades Tahoe,california,squaw-valley-usa
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Palisades Tahoe,california,squaw-valley-usa
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Palisades Tahoe,california,squaw-valley-usa
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Palisades Tahoe,california,squaw-valley-usa
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Palisades Tahoe,california,squaw-valley-usa
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Palisades Tahoe,california,squaw-valley-usa
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Sierra-at-Tahoe,california,sierra-at-tahoe
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Sierra-at-Tahoe,california,sierra-at-tahoe
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Sierra-at-Tahoe,california,sierra-at-tahoe
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Sierra-at-Tahoe,california,sierra-at-tahoe
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Sierra-at-Tahoe,california,sierra-at-tahoe
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Sierra-at-Tahoe,california,sierra-at-tahoe
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Sierra-at-Tahoe,california,sierra-at-tahoe
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Sierra-at-Tahoe,california,sierra-at-tahoe
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Sierra-at-Tahoe,california,sierra-at-tahoe
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Sierra-at-Tahoe,california,sierra-at-tahoe
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Sierra-at-Tahoe,california,sierra-at-tahoe
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Ski China Peak,california,ski-china-peak
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Ski China Peak,california,ski-china-peak
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Ski China Peak,california,ski-china-peak
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Ski China Peak,california,ski-china-peak
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Ski China Peak,california,ski-china-peak
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Ski China Peak,california,ski-china-peak
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Ski China Peak,california,ski-china-peak
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Ski China Peak,california,ski-china-peak
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Ski China Peak,california,ski-china-peak
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Ski China Peak,california,ski-china-peak
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Ski China Peak,california,ski-china-peak
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Snow Summit,california,snow-summit
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Snow Summit,california,snow-summit
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Snow Summit,california,snow-summit
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Snow Summit,california,snow-summit
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Snow Summit,california,snow-summit
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Snow Summit,california,snow-summit
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Snow Summit,california,snow-summit
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Snow Summit,california,snow-summit
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Snow Summit,california,snow-summit
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Snow Summit,california,snow-summit
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Snow Summit,california,snow-summit
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Snow Valley,california,snow-valley
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Snow Valley,california,snow-valley
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Snow Valley,california,snow-valley
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Snow Valley,california,snow-valley
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Snow Valley,california,snow-valley
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Snow Valley,california,snow-valley
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Snow Valley,california,snow-valley
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Snow Valley,california,snow-valley
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Snow Valley,california,snow-valley
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Snow Valley,california,snow-valley
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Snow Valley,california,snow-valley
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Soda Springs,california,soda-springs
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Soda Springs,california,soda-springs
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Soda Springs,california,soda-springs
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Soda Springs,california,soda-springs
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Soda Springs,california,soda-springs
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Soda Springs,california,soda-springs
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Soda Springs,california,soda-springs
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Soda Springs,california,soda-springs
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Soda Springs,california,soda-springs
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Soda Springs,california,soda-springs
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Soda Springs,california,soda-springs
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Sugar Bowl Resort,california,sugar-bowl-resort
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Sugar Bowl Resort,california,sugar-bowl-resort
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Sugar Bowl Resort,california,sugar-bowl-resort
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Sugar Bowl Resort,california,sugar-bowl-resort
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Sugar Bowl Resort,california,sugar-bowl-resort
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Sugar Bowl Resort,california,sugar-bowl-resort
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Sugar Bowl Resort,california,sugar-bowl-resort
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Sugar Bowl Resort,california,sugar-bowl-resort
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Sugar Bowl Resort,california,sugar-bowl-resort
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Sugar Bowl Resort,california,sugar-bowl-resort
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Sugar Bowl Resort,california,sugar-bowl-resort
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Tahoe Donner,california,tahoe-donner
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Tahoe Donner,california,tahoe-donner
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Tahoe Donner,california,tahoe-donner
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Tahoe Donner,california,tahoe-donner
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Tahoe Donner,california,tahoe-donner
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Tahoe Donner,california,tahoe-donner
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Tahoe Donner,california,tahoe-donner
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Tahoe Donner,california,tahoe-donner
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Tahoe Donner,california,tahoe-donner
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Tahoe Donner,california,tahoe-donner
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Tahoe Donner,california,tahoe-donner
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Aspen Snowmass,colorado,aspen-snowmass
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Aspen Snowmass,colorado,aspen-snowmass
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Aspen Snowmass,colorado,aspen-snowmass
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Aspen Snowmass,colorado,aspen-snowmass
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Aspen Snowmass,colorado,aspen-snowmass
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Aspen Snowmass,colorado,aspen-snowmass
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Aspen Snowmass,colorado,aspen-snowmass
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Aspen Snowmass,colorado,aspen-snowmass
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Aspen Snowmass,colorado,aspen-snowmass
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Aspen Snowmass,colorado,aspen-snowmass
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Aspen Snowmass,colorado,aspen-snowmass
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Beaver Creek,colorado,beaver-creek
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Beaver Creek,colorado,beaver-creek
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Beaver Creek,colorado,beaver-creek
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Beaver Creek,colorado,beaver-creek
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Beaver Creek,colorado,beaver-creek
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Beaver Creek,colorado,beaver-creek
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Beaver Creek,colorado,beaver-creek
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Beaver Creek,colorado,beaver-creek
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Beaver Creek,colorado,beaver-creek
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Beaver Creek,colorado,beaver-creek
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Beaver Creek,colorado,beaver-creek
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Breckenridge,colorado,breckenridge
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Breckenridge,colorado,breckenridge
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Breckenridge,colorado,breckenridge
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Breckenridge,colorado,breckenridge
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Breckenridge,colorado,breckenridge
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Breckenridge,colorado,breckenridge
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Breckenridge,colorado,breckenridge
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Breckenridge,colorado,breckenridge
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Breckenridge,colorado,breckenridge
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Breckenridge,colorado,breckenridge
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Breckenridge,colorado,breckenridge
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Cooper,colorado,ski-cooper
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Cooper,colorado,ski-cooper
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Cooper,colorado,ski-cooper
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Cooper,colorado,ski-cooper
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Cooper,colorado,ski-cooper
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Cooper,colorado,ski-cooper
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Cooper,colorado,ski-cooper
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Cooper,colorado,ski-cooper
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Cooper,colorado,ski-cooper
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Cooper,colorado,ski-cooper
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Cooper,colorado,ski-cooper
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Copper Mountain,colorado,copper-mountain-resort
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Copper Mountain,colorado,copper-mountain-resort
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Copper Mountain,colorado,copper-mountain-resort
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Copper Mountain,colorado,copper-mountain-resort
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Copper Mountain,colorado,copper-mountain-resort
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Copper Mountain,colorado,copper-mountain-resort
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Copper Mountain,colorado,copper-mountain-resort
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Copper Mountain,colorado,copper-mountain-resort
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Copper Mountain,colorado,copper-mountain-resort
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Copper Mountain,colorado,copper-mountain-resort
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Copper Mountain,colorado,copper-mountain-resort
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Echo Mountain,colorado,echo-mountain
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Echo Mountain,colorado,echo-mountain
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Echo Mountain,colorado,echo-mountain
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Echo Mountain,colorado,echo-mountain
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Echo Mountain,colorado,echo-mountain
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Echo Mountain,colorado,echo-mountain
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Echo Mountain,colorado,echo-mountain
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Echo Mountain,colorado,echo-mountain
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Echo Mountain,colorado,echo-mountain
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Echo Mountain,colorado,echo-mountain
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Echo Mountain,colorado,echo-mountain
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Eldora Mountain Resort,colorado,eldora-mountain-resort
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Eldora Mountain Resort,colorado,eldora-mountain-resort
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Eldora Mountain Resort,colorado,eldora-mountain-resort
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Eldora Mountain Resort,colorado,eldora-mountain-resort
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Eldora Mountain Resort,colorado,eldora-mountain-resort
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Eldora Mountain Resort,colorado,eldora-mountain-resort
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Eldora Mountain Resort,colorado,eldora-mountain-resort
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Eldora Mountain Resort,colorado,eldora-mountain-resort
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Eldora Mountain Resort,colorado,eldora-mountain-resort
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Eldora Mountain Resort,colorado,eldora-mountain-resort
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Eldora Mountain Resort,colorado,eldora-mountain-resort
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Keystone,colorado,keystone
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Keystone,colorado,keystone
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Keystone,colorado,keystone
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Keystone,colorado,keystone
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Keystone,colorado,keystone
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Keystone,colorado,keystone
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Keystone,colorado,keystone
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Keystone,colorado,keystone
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Keystone,colorado,keystone
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Keystone,colorado,keystone
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Keystone,colorado,keystone
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Loveland,colorado,loveland
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Loveland,colorado,loveland
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Loveland,colorado,loveland
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Loveland,colorado,loveland
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Loveland,colorado,loveland
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Loveland,colorado,loveland
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Loveland,colorado,loveland
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Loveland,colorado,loveland
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Loveland,colorado,loveland
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Loveland,colorado,loveland
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Loveland,colorado,loveland
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Monarch Mountain,colorado,monarch-mountain
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Monarch Mountain,colorado,monarch-mountain
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Monarch Mountain,colorado,monarch-mountain
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Monarch Mountain,colorado,monarch-mountain
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Monarch Mountain,colorado,monarch-mountain
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Monarch Mountain,colorado,monarch-mountain
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Monarch Mountain,colorado,monarch-mountain
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Monarch Mountain,colorado,monarch-mountain
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Monarch Mountain,colorado,monarch-mountain
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Monarch Mountain,colorado,monarch-mountain
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Monarch Mountain,colorado,monarch-mountain
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Purgatory,colorado,durango-mountain-resort
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Purgatory,colorado,durango-mountain-resort
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Purgatory,colorado,durango-mountain-resort
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Purgatory,colorado,durango-mountain-resort
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Purgatory,colorado,durango-mountain-resort
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Purgatory,colorado,durango-mountain-resort
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Purgatory,colorado,durango-mountain-resort
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Purgatory,colorado,durango-mountain-resort
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Purgatory,colorado,durango-mountain-resort
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Purgatory,colorado,durango-mountain-resort
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Purgatory,colorado,durango-mountain-resort
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Silverton Mountain,colorado,silverton-mountain
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Silverton Mountain,colorado,silverton-mountain
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Silverton Mountain,colorado,silverton-mountain
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Silverton Mountain,colorado,silverton-mountain
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Silverton Mountain,colorado,silverton-mountain
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Silverton Mountain,colorado,silverton-mountain
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Silverton Mountain,colorado,silverton-mountain
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Silverton Mountain,colorado,silverton-mountain
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Silverton Mountain,colorado,silverton-mountain
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Silverton Mountain,colorado,silverton-mountain
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Silverton Mountain,colorado,silverton-mountain
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Steamboat,colorado,steamboat
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Steamboat,colorado,steamboat
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Steamboat,colorado,steamboat
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Steamboat,colorado,steamboat
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Steamboat,colorado,steamboat
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Steamboat,colorado,steamboat
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Steamboat,colorado,steamboat
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Steamboat,colorado,steamboat
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Steamboat,colorado,steamboat
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Steamboat,colorado,steamboat
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Steamboat,colorado,steamboat
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Vail,colorado,vail
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Vail,colorado,vail
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Vail,colorado,vail
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Vail,colorado,vail
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Vail,colorado,vail
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Vail,colorado,vail
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Vail,colorado,vail
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Vail,colorado,vail
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Vail,colorado,vail
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Vail,colorado,vail
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Vail,colorado,vail
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Winter Park,colorado,winter-park-resort
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Winter Park,colorado,winter-park-resort
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Winter Park,colorado,winter-park-resort
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Winter Park,colorado,winter-park-resort
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Winter Park,colorado,winter-park-resort
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Winter Park,colorado,winter-park-resort
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Winter Park,colorado,winter-park-resort
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Winter Park,colorado,winter-park-resort
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Winter Park,colorado,winter-park-resort
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Winter Park,colorado,winter-park-resort
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Winter Park,colorado,winter-park-resort
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Alta Ski Area,utah,alta-ski-area
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Alta Ski Area,utah,alta-ski-area
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Alta Ski Area,utah,alta-ski-area
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Alta Ski Area,utah,alta-ski-area
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Alta Ski Area,utah,alta-ski-area
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Alta Ski Area,utah,alta-ski-area
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Alta Ski Area,utah,alta-ski-area
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Alta Ski Area,utah,alta-ski-area
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Alta Ski Area,utah,alta-ski-area
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Alta Ski Area,utah,alta-ski-area
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Alta Ski Area,utah,alta-ski-area
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Brian Head Resort,utah,brian-head-resort
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Brian Head Resort,utah,brian-head-resort
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Brian Head Resort,utah,brian-head-resort
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Brian Head Resort,utah,brian-head-resort
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Brian Head Resort,utah,brian-head-resort
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Brian Head Resort,utah,brian-head-resort
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Brian Head Resort,utah,brian-head-resort
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Brian Head Resort,utah,brian-head-resort
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Brian Head Resort,utah,brian-head-resort
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Brian Head Resort,utah,brian-head-resort
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Brian Head Resort,utah,brian-head-resort
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Brighton Resort,utah,brighton-resort
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Brighton Resort,utah,brighton-resort
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Brighton Resort,utah,brighton-resort
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Brighton Resort,utah,brighton-resort
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Brighton Resort,utah,brighton-resort
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Brighton Resort,utah,brighton-resort
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Brighton Resort,utah,brighton-resort
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Brighton Resort,utah,brighton-resort
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Brighton Resort,utah,brighton-resort
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Brighton Resort,utah,brighton-resort
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Brighton Resort,utah,brighton-resort
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Deer Valley Resort,utah,deer-valley-resort
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Deer Valley Resort,utah,deer-valley-resort
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Deer Valley Resort,utah,deer-valley-resort
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Deer Valley Resort,utah,deer-valley-resort
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Deer Valley Resort,utah,deer-valley-resort
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Deer Valley Resort,utah,deer-valley-resort
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Deer Valley Resort,utah,deer-valley-resort
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Deer Valley Resort,utah,deer-valley-resort
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Deer Valley Resort,utah,deer-valley-resort
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Deer Valley Resort,utah,deer-valley-resort
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Deer Valley Resort,utah,deer-valley-resort
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Park City,utah,park-city-mountain-resort
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Park City,utah,park-city-mountain-resort
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Park City,utah,park-city-mountain-resort
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Park City,utah,park-city-mountain-resort
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Park City,utah,park-city-mountain-resort
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Park City,utah,park-city-mountain-resort
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Park City,utah,park-city-mountain-resort
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Park City,utah,park-city-mountain-resort
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Park City,utah,park-city-mountain-resort
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Park City,utah,park-city-mountain-resort
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Park City,utah,park-city-mountain-resort
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Snowbasin,utah,snowbasin
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Snowbasin,utah,snowbasin
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Snowbasin,utah,snowbasin
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Snowbasin,utah,snowbasin
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Snowbasin,utah,snowbasin
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Snowbasin,utah,snowbasin
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Snowbasin,utah,snowbasin
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Snowbasin,utah,snowbasin
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Snowbasin,utah,snowbasin
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Snowbasin,utah,snowbasin
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Snowbasin,utah,snowbasin
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Snowbird,utah,snowbird
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Snowbird,utah,snowbird
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Snowbird,utah,snowbird
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Snowbird,utah,snowbird
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Snowbird,utah,snowbird
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Snowbird,utah,snowbird
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Snowbird,utah,snowbird
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Snowbird,utah,snowbird
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Snowbird,utah,snowbird
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Snowbird,utah,snowbird
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Snowbird,utah,snowbird
+0,2012-01-01,259.08000000000004,16,36.04665,55.573473502304154,91.44,45.72,Annual,Solitude Mountain Resort,utah,solitude-mountain-resort
+1,2013-01-01,96.52,8,15.859637500000002,33.124614055299546,30.48,25.4,Annual,Solitude Mountain Resort,utah,solitude-mountain-resort
+2,2014-01-01,129.54,10,17.3450375,35.654074074074074,45.72,27.94,Annual,Solitude Mountain Resort,utah,solitude-mountain-resort
+3,2015-01-01,205.74,16,41.37285,61.25441500256018,101.6,45.72,Annual,Solitude Mountain Resort,utah,solitude-mountain-resort
+4,2016-01-01,441.96,19,47.78165,65.21911207311209,116.84,60.96,Annual,Solitude Mountain Resort,utah,solitude-mountain-resort
+5,2017-01-01,91.44,10,36.604675,50.856653076463566,91.44,20.32,Annual,Solitude Mountain Resort,utah,solitude-mountain-resort
+6,2018-01-01,337.82,19,55.720775,80.48574434623349,111.76,45.72,Annual,Solitude Mountain Resort,utah,solitude-mountain-resort
+7,2019-01-01,200.66000000000003,13,50.370425,59.53401086956522,101.6,45.72,Annual,Solitude Mountain Resort,utah,solitude-mountain-resort
+8,2020-01-01,279.4,15,59.5220125,77.89745063365754,116.84,71.12,Annual,Solitude Mountain Resort,utah,solitude-mountain-resort
+9,2021-01-01,223.52,13,47.0986875,66.14754032258065,147.32,33.02,Annual,Solitude Mountain Resort,utah,solitude-mountain-resort
+10,2022-01-01,579.12,25,122.34926666666667,163.01054018165743,254.0,76.2,Annual,Solitude Mountain Resort,utah,solitude-mountain-resort
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Bear Mountain,california,bear-mountain
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Bear Mountain,california,bear-mountain
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Bear Mountain,california,bear-mountain
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Bear Mountain,california,bear-mountain
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Bear Mountain,california,bear-mountain
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Bear Mountain,california,bear-mountain
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Bear Mountain,california,bear-mountain
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Bear Mountain,california,bear-mountain
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Bear Valley,california,bear-valley
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Bear Valley,california,bear-valley
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Bear Valley,california,bear-valley
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Bear Valley,california,bear-valley
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Bear Valley,california,bear-valley
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Bear Valley,california,bear-valley
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Bear Valley,california,bear-valley
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Bear Valley,california,bear-valley
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Boreal Mountain Resort,california,boreal
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Boreal Mountain Resort,california,boreal
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Boreal Mountain Resort,california,boreal
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Boreal Mountain Resort,california,boreal
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Boreal Mountain Resort,california,boreal
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Boreal Mountain Resort,california,boreal
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Boreal Mountain Resort,california,boreal
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Boreal Mountain Resort,california,boreal
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Dodge Ridge,california,dodge-ridge
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Dodge Ridge,california,dodge-ridge
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Dodge Ridge,california,dodge-ridge
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Dodge Ridge,california,dodge-ridge
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Dodge Ridge,california,dodge-ridge
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Dodge Ridge,california,dodge-ridge
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Dodge Ridge,california,dodge-ridge
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Dodge Ridge,california,dodge-ridge
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Donner Ski Ranch,california,donner-ski-ranch
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Donner Ski Ranch,california,donner-ski-ranch
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Donner Ski Ranch,california,donner-ski-ranch
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Donner Ski Ranch,california,donner-ski-ranch
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Donner Ski Ranch,california,donner-ski-ranch
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Donner Ski Ranch,california,donner-ski-ranch
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Donner Ski Ranch,california,donner-ski-ranch
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Donner Ski Ranch,california,donner-ski-ranch
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Heavenly,california,heavenly-mountain-resort
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Heavenly,california,heavenly-mountain-resort
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Heavenly,california,heavenly-mountain-resort
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Heavenly,california,heavenly-mountain-resort
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Heavenly,california,heavenly-mountain-resort
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Heavenly,california,heavenly-mountain-resort
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Heavenly,california,heavenly-mountain-resort
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Heavenly,california,heavenly-mountain-resort
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Kirkwood,california,kirkwood
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Kirkwood,california,kirkwood
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Kirkwood,california,kirkwood
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Kirkwood,california,kirkwood
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Kirkwood,california,kirkwood
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Kirkwood,california,kirkwood
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Kirkwood,california,kirkwood
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Kirkwood,california,kirkwood
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Mammoth Mountain,california,mammoth-mountain-ski-area
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Mammoth Mountain,california,mammoth-mountain-ski-area
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Mammoth Mountain,california,mammoth-mountain-ski-area
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Mammoth Mountain,california,mammoth-mountain-ski-area
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Mammoth Mountain,california,mammoth-mountain-ski-area
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Mammoth Mountain,california,mammoth-mountain-ski-area
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Mammoth Mountain,california,mammoth-mountain-ski-area
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Mammoth Mountain,california,mammoth-mountain-ski-area
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Mountain High,california,mountain-high
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Mountain High,california,mountain-high
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Mountain High,california,mountain-high
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Mountain High,california,mountain-high
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Mountain High,california,mountain-high
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Mountain High,california,mountain-high
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Mountain High,california,mountain-high
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Mountain High,california,mountain-high
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Mt. Shasta Ski Park,california,mount-shasta-board-ski-park
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Northstar California,california,northstar-california
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Northstar California,california,northstar-california
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Northstar California,california,northstar-california
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Northstar California,california,northstar-california
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Northstar California,california,northstar-california
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Northstar California,california,northstar-california
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Northstar California,california,northstar-california
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Northstar California,california,northstar-california
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Palisades Tahoe,california,squaw-valley-usa
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Palisades Tahoe,california,squaw-valley-usa
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Palisades Tahoe,california,squaw-valley-usa
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Palisades Tahoe,california,squaw-valley-usa
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Palisades Tahoe,california,squaw-valley-usa
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Palisades Tahoe,california,squaw-valley-usa
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Palisades Tahoe,california,squaw-valley-usa
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Palisades Tahoe,california,squaw-valley-usa
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Sierra-at-Tahoe,california,sierra-at-tahoe
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Sierra-at-Tahoe,california,sierra-at-tahoe
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Sierra-at-Tahoe,california,sierra-at-tahoe
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Sierra-at-Tahoe,california,sierra-at-tahoe
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Sierra-at-Tahoe,california,sierra-at-tahoe
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Sierra-at-Tahoe,california,sierra-at-tahoe
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Sierra-at-Tahoe,california,sierra-at-tahoe
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Sierra-at-Tahoe,california,sierra-at-tahoe
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Ski China Peak,california,ski-china-peak
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Ski China Peak,california,ski-china-peak
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Ski China Peak,california,ski-china-peak
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Ski China Peak,california,ski-china-peak
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Ski China Peak,california,ski-china-peak
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Ski China Peak,california,ski-china-peak
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Ski China Peak,california,ski-china-peak
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Ski China Peak,california,ski-china-peak
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Snow Summit,california,snow-summit
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Snow Summit,california,snow-summit
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Snow Summit,california,snow-summit
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Snow Summit,california,snow-summit
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Snow Summit,california,snow-summit
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Snow Summit,california,snow-summit
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Snow Summit,california,snow-summit
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Snow Summit,california,snow-summit
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Snow Valley,california,snow-valley
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Snow Valley,california,snow-valley
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Snow Valley,california,snow-valley
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Snow Valley,california,snow-valley
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Snow Valley,california,snow-valley
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Snow Valley,california,snow-valley
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Snow Valley,california,snow-valley
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Snow Valley,california,snow-valley
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Soda Springs,california,soda-springs
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Soda Springs,california,soda-springs
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Soda Springs,california,soda-springs
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Soda Springs,california,soda-springs
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Soda Springs,california,soda-springs
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Soda Springs,california,soda-springs
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Soda Springs,california,soda-springs
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Soda Springs,california,soda-springs
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Sugar Bowl Resort,california,sugar-bowl-resort
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Sugar Bowl Resort,california,sugar-bowl-resort
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Sugar Bowl Resort,california,sugar-bowl-resort
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Sugar Bowl Resort,california,sugar-bowl-resort
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Sugar Bowl Resort,california,sugar-bowl-resort
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Sugar Bowl Resort,california,sugar-bowl-resort
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Sugar Bowl Resort,california,sugar-bowl-resort
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Sugar Bowl Resort,california,sugar-bowl-resort
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Tahoe Donner,california,tahoe-donner
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Tahoe Donner,california,tahoe-donner
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Tahoe Donner,california,tahoe-donner
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Tahoe Donner,california,tahoe-donner
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Tahoe Donner,california,tahoe-donner
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Tahoe Donner,california,tahoe-donner
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Tahoe Donner,california,tahoe-donner
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Tahoe Donner,california,tahoe-donner
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Arapahoe Basin Ski Area,colorado,arapahoe-basin-ski-area
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Aspen Snowmass,colorado,aspen-snowmass
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Aspen Snowmass,colorado,aspen-snowmass
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Aspen Snowmass,colorado,aspen-snowmass
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Aspen Snowmass,colorado,aspen-snowmass
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Aspen Snowmass,colorado,aspen-snowmass
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Aspen Snowmass,colorado,aspen-snowmass
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Aspen Snowmass,colorado,aspen-snowmass
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Aspen Snowmass,colorado,aspen-snowmass
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Beaver Creek,colorado,beaver-creek
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Beaver Creek,colorado,beaver-creek
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Beaver Creek,colorado,beaver-creek
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Beaver Creek,colorado,beaver-creek
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Beaver Creek,colorado,beaver-creek
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Beaver Creek,colorado,beaver-creek
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Beaver Creek,colorado,beaver-creek
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Beaver Creek,colorado,beaver-creek
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Breckenridge,colorado,breckenridge
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Breckenridge,colorado,breckenridge
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Breckenridge,colorado,breckenridge
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Breckenridge,colorado,breckenridge
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Breckenridge,colorado,breckenridge
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Breckenridge,colorado,breckenridge
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Breckenridge,colorado,breckenridge
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Breckenridge,colorado,breckenridge
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Cooper,colorado,ski-cooper
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Cooper,colorado,ski-cooper
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Cooper,colorado,ski-cooper
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Cooper,colorado,ski-cooper
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Cooper,colorado,ski-cooper
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Cooper,colorado,ski-cooper
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Cooper,colorado,ski-cooper
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Cooper,colorado,ski-cooper
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Copper Mountain,colorado,copper-mountain-resort
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Copper Mountain,colorado,copper-mountain-resort
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Copper Mountain,colorado,copper-mountain-resort
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Copper Mountain,colorado,copper-mountain-resort
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Copper Mountain,colorado,copper-mountain-resort
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Copper Mountain,colorado,copper-mountain-resort
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Copper Mountain,colorado,copper-mountain-resort
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Copper Mountain,colorado,copper-mountain-resort
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Echo Mountain,colorado,echo-mountain
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Echo Mountain,colorado,echo-mountain
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Echo Mountain,colorado,echo-mountain
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Echo Mountain,colorado,echo-mountain
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Echo Mountain,colorado,echo-mountain
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Echo Mountain,colorado,echo-mountain
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Echo Mountain,colorado,echo-mountain
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Echo Mountain,colorado,echo-mountain
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Eldora Mountain Resort,colorado,eldora-mountain-resort
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Eldora Mountain Resort,colorado,eldora-mountain-resort
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Eldora Mountain Resort,colorado,eldora-mountain-resort
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Eldora Mountain Resort,colorado,eldora-mountain-resort
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Eldora Mountain Resort,colorado,eldora-mountain-resort
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Eldora Mountain Resort,colorado,eldora-mountain-resort
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Eldora Mountain Resort,colorado,eldora-mountain-resort
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Eldora Mountain Resort,colorado,eldora-mountain-resort
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Keystone,colorado,keystone
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Keystone,colorado,keystone
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Keystone,colorado,keystone
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Keystone,colorado,keystone
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Keystone,colorado,keystone
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Keystone,colorado,keystone
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Keystone,colorado,keystone
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Keystone,colorado,keystone
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Loveland,colorado,loveland
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Loveland,colorado,loveland
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Loveland,colorado,loveland
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Loveland,colorado,loveland
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Loveland,colorado,loveland
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Loveland,colorado,loveland
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Loveland,colorado,loveland
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Loveland,colorado,loveland
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Monarch Mountain,colorado,monarch-mountain
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Monarch Mountain,colorado,monarch-mountain
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Monarch Mountain,colorado,monarch-mountain
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Monarch Mountain,colorado,monarch-mountain
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Monarch Mountain,colorado,monarch-mountain
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Monarch Mountain,colorado,monarch-mountain
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Monarch Mountain,colorado,monarch-mountain
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Monarch Mountain,colorado,monarch-mountain
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Purgatory,colorado,durango-mountain-resort
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Purgatory,colorado,durango-mountain-resort
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Purgatory,colorado,durango-mountain-resort
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Purgatory,colorado,durango-mountain-resort
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Purgatory,colorado,durango-mountain-resort
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Purgatory,colorado,durango-mountain-resort
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Purgatory,colorado,durango-mountain-resort
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Purgatory,colorado,durango-mountain-resort
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Silverton Mountain,colorado,silverton-mountain
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Silverton Mountain,colorado,silverton-mountain
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Silverton Mountain,colorado,silverton-mountain
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Silverton Mountain,colorado,silverton-mountain
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Silverton Mountain,colorado,silverton-mountain
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Silverton Mountain,colorado,silverton-mountain
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Silverton Mountain,colorado,silverton-mountain
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Silverton Mountain,colorado,silverton-mountain
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Steamboat,colorado,steamboat
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Steamboat,colorado,steamboat
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Steamboat,colorado,steamboat
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Steamboat,colorado,steamboat
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Steamboat,colorado,steamboat
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Steamboat,colorado,steamboat
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Steamboat,colorado,steamboat
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Steamboat,colorado,steamboat
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Vail,colorado,vail
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Vail,colorado,vail
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Vail,colorado,vail
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Vail,colorado,vail
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Vail,colorado,vail
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Vail,colorado,vail
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Vail,colorado,vail
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Vail,colorado,vail
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Winter Park,colorado,winter-park-resort
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Winter Park,colorado,winter-park-resort
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Winter Park,colorado,winter-park-resort
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Winter Park,colorado,winter-park-resort
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Winter Park,colorado,winter-park-resort
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Winter Park,colorado,winter-park-resort
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Winter Park,colorado,winter-park-resort
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Winter Park,colorado,winter-park-resort
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Alta Ski Area,utah,alta-ski-area
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Alta Ski Area,utah,alta-ski-area
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Alta Ski Area,utah,alta-ski-area
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Alta Ski Area,utah,alta-ski-area
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Alta Ski Area,utah,alta-ski-area
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Alta Ski Area,utah,alta-ski-area
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Alta Ski Area,utah,alta-ski-area
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Alta Ski Area,utah,alta-ski-area
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Brian Head Resort,utah,brian-head-resort
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Brian Head Resort,utah,brian-head-resort
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Brian Head Resort,utah,brian-head-resort
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Brian Head Resort,utah,brian-head-resort
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Brian Head Resort,utah,brian-head-resort
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Brian Head Resort,utah,brian-head-resort
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Brian Head Resort,utah,brian-head-resort
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Brian Head Resort,utah,brian-head-resort
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Brighton Resort,utah,brighton-resort
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Brighton Resort,utah,brighton-resort
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Brighton Resort,utah,brighton-resort
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Brighton Resort,utah,brighton-resort
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Brighton Resort,utah,brighton-resort
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Brighton Resort,utah,brighton-resort
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Brighton Resort,utah,brighton-resort
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Brighton Resort,utah,brighton-resort
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Deer Valley Resort,utah,deer-valley-resort
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Deer Valley Resort,utah,deer-valley-resort
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Deer Valley Resort,utah,deer-valley-resort
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Deer Valley Resort,utah,deer-valley-resort
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Deer Valley Resort,utah,deer-valley-resort
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Deer Valley Resort,utah,deer-valley-resort
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Deer Valley Resort,utah,deer-valley-resort
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Deer Valley Resort,utah,deer-valley-resort
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Park City,utah,park-city-mountain-resort
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Park City,utah,park-city-mountain-resort
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Park City,utah,park-city-mountain-resort
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Park City,utah,park-city-mountain-resort
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Park City,utah,park-city-mountain-resort
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Park City,utah,park-city-mountain-resort
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Park City,utah,park-city-mountain-resort
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Park City,utah,park-city-mountain-resort
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Snowbasin,utah,snowbasin
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Snowbasin,utah,snowbasin
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Snowbasin,utah,snowbasin
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Snowbasin,utah,snowbasin
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Snowbasin,utah,snowbasin
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Snowbasin,utah,snowbasin
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Snowbasin,utah,snowbasin
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Snowbasin,utah,snowbasin
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Snowbird,utah,snowbird
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Snowbird,utah,snowbird
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Snowbird,utah,snowbird
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Snowbird,utah,snowbird
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Snowbird,utah,snowbird
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Snowbird,utah,snowbird
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Snowbird,utah,snowbird
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Snowbird,utah,snowbird
+0,2023-11-03,12.700000000000001,1,26.63664545454545,38.28212829594648,76.2,45.72,Monthly,Solitude Mountain Resort,utah,solitude-mountain-resort
+1,2023-12-03,41.794545454545464,3,48.715,75.61623498879895,91.44,45.72,Monthly,Solitude Mountain Resort,utah,solitude-mountain-resort
+2,2023-01-03,74.12181818181817,4,70.57202727272727,99.8272947172302,116.84,71.12,Monthly,Solitude Mountain Resort,utah,solitude-mountain-resort
+3,2023-02-03,71.58181818181818,4,84.1431,119.00044035080715,190.5,71.12,Monthly,Solitude Mountain Resort,utah,solitude-mountain-resort
+4,2023-03-03,58.42,3,84.91478181818182,117.76298753237614,254.0,76.2,Monthly,Solitude Mountain Resort,utah,solitude-mountain-resort
+5,2023-04-03,0.0,0,48.27979090909091,64.42363636363638,190.5,0.0,Monthly,Solitude Mountain Resort,utah,solitude-mountain-resort
+6,2023-05-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Solitude Mountain Resort,utah,solitude-mountain-resort
+7,2023-06-03,0.0,0,0.0,0.0,0.0,0.0,Monthly,Solitude Mountain Resort,utah,solitude-mountain-resort
